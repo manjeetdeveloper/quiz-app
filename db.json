@@ -1,0 +1,182 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "content": "What will be output of \nlet a=\"1\";\nlet b=1;\nconsole.log(a === b);",
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "options": [
+        {
+          "id": "a",
+          "content": "1",
+          "isCorrect": "false"
+        },
+        {
+          "id": "b",
+          "content": "true",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "content": "false",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "content": "error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "content": "what is command of create new page",
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "options": [
+        {
+          "id": "a",
+          "content": "1",
+          "isCorrect": "false"
+        },
+        {
+          "id": "b",
+          "content": "true",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "content": "false",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "content": "error",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "content": "What will be output of \nlet a=\"1\";\nlet b=1;\nconsole.log(a === b);",
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "options": [
+        {
+          "id": "a",
+          "content": "1",
+          "isCorrect": "false"
+        },
+        {
+          "id": "b",
+          "content": "true",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "content": "false",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "content": "error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "content": "How to run angular project?;",
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "options": [
+        {
+          "id": "a",
+          "content": "1",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "content": "true",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "content": "false",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "content": "error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "content": "what is command of generate new component in angular project",
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "options": [
+        {
+          "id": "a",
+          "content": "1",
+          "isCorrect": "false"
+        },
+        {
+          "id": "b",
+          "content": "true",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "content": "false",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "content": "error",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "quizs": [
+    {
+      "id": "1",
+      "name": "Javascript quiz 1",
+      "code": "jsquiz01",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Javascript quiz 2",
+      "code": "jsquiz02",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "quizResults": [
+    {
+      "id": "e178",
+      "name": "Manjeet",
+      "quizId": "1"
+    },
+    {
+      "id": "3978",
+      "name": "Manjeet",
+      "quizId": "1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+Quiz Application
+
+node install
+npm install @angular/cli
+ng version
+create new project
+angular materail setup
+tailwind setup
+visual flow of quiz app
+
+json server setup
+
+fake db schema question , quiz and userQuiz
+
+Routing
+quiz join page
+
+quiz info page
+quiz page
+quiz score page
