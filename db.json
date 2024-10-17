@@ -2,140 +2,140 @@
   "questions": [
     {
       "id": "1",
-      "content": "What will be output of \nlet a=\"1\";\nlet b=1;\nconsole.log(a === b);",
+      "content": "What is Angular?",
       "marks": 1,
       "negativeMarks": 0.25,
       "options": [
         {
           "id": "a",
-          "content": "1",
-          "isCorrect": "false"
+          "content": "A front-end framework",
+          "isCorrect": true
         },
         {
           "id": "b",
-          "content": "true",
+          "content": "A back-end framework",
           "isCorrect": false
         },
         {
           "id": "c",
-          "content": "false",
-          "isCorrect": true
+          "content": "A database",
+          "isCorrect": false
         },
         {
           "id": "d",
-          "content": "error",
+          "content": "A programming language",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "2",
-      "content": "what is command of create new page",
+      "content": " Which directive is used to create two-way data binding in Angular?",
       "marks": 1,
       "negativeMarks": 0.25,
       "options": [
         {
           "id": "a",
-          "content": "1",
-          "isCorrect": "false"
+          "content": "ng-model",
+          "isCorrect": true
         },
         {
           "id": "b",
-          "content": "true",
+          "content": "ng-init",
           "isCorrect": false
         },
         {
           "id": "c",
-          "content": "false",
+          "content": "ng-app",
           "isCorrect": false
         },
         {
           "id": "d",
-          "content": "error",
-          "isCorrect": true
+          "content": "ng-bind",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": "3",
-      "content": "What will be output of \nlet a=\"1\";\nlet b=1;\nconsole.log(a === b);",
+      "content": "What is the purpose of Angular CLI?",
       "marks": 1,
       "negativeMarks": 0.25,
       "options": [
         {
           "id": "a",
-          "content": "1",
-          "isCorrect": "false"
-        },
-        {
-          "id": "b",
-          "content": "true",
+          "content": "To execute Angular projects",
           "isCorrect": false
         },
         {
-          "id": "c",
-          "content": "false",
+          "id": "b",
+          "content": "To scaffold and build Angular applications",
           "isCorrect": true
         },
         {
+          "id": "c",
+          "content": "To create Angular templates",
+          "isCorrect": false
+        },
+        {
           "id": "d",
-          "content": "error",
+          "content": "To write Angular code",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "4",
-      "content": "How to run angular project?;",
+      "content": "Which of the following is a lifecycle hook in Angular?",
       "marks": 1,
       "negativeMarks": 0.25,
       "options": [
         {
           "id": "a",
-          "content": "1",
-          "isCorrect": false
+          "content": "ngOnInit",
+          "isCorrect": true
         },
         {
           "id": "b",
-          "content": "true",
+          "content": "ngDestroy",
           "isCorrect": false
         },
         {
           "id": "c",
-          "content": "false",
-          "isCorrect": true
+          "content": "ngAfterView",
+          "isCorrect": false
         },
         {
           "id": "d",
-          "content": "error",
+          "content": "ngCreate",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "5",
-      "content": "what is command of generate new component in angular project",
+      "content": ". Which file is the entry point of an Angular application?",
       "marks": 1,
       "negativeMarks": 0.25,
       "options": [
         {
           "id": "a",
-          "content": "1",
-          "isCorrect": "false"
+          "content": "index.html",
+          "isCorrect": false
         },
         {
           "id": "b",
-          "content": "true",
+          "content": "main.ts",
           "isCorrect": true
         },
         {
           "id": "c",
-          "content": "false",
+          "content": "app.module.ts",
           "isCorrect": false
         },
         {
           "id": "d",
-          "content": "error",
+          "content": "styles.css",
           "isCorrect": false
         }
       ]
@@ -144,8 +144,8 @@
   "quizs": [
     {
       "id": "1",
-      "name": "Javascript quiz 1",
-      "code": "jsquiz01",
+      "name": "Angular quiz 1",
+      "code": "Ngquiz01",
       "questions": [
         1,
         2,
@@ -156,8 +156,8 @@
     },
     {
       "id": "2",
-      "name": "Javascript quiz 2",
-      "code": "jsquiz02",
+      "name": "Angular quiz 2",
+      "code": "Ngquiz02",
       "questions": [
         1,
         2,
@@ -169,14 +169,74 @@
   ],
   "quizResults": [
     {
-      "id": "e178",
-      "name": "Manjeet",
-      "quizId": "1"
+      "id": "a7d9",
+      "name": "Manjeet Singh",
+      "quizId": "1",
+      "response": [
+        {
+          "questionId": "1",
+          "answerOptionId": "a"
+        },
+        {
+          "questionId": "2",
+          "answerOptionId": "a"
+        },
+        {
+          "questionId": "3",
+          "answerOptionId": "c"
+        },
+        {
+          "questionId": "4",
+          "answerOptionId": "c"
+        },
+        {
+          "questionId": "5",
+          "answerOptionId": ""
+        }
+      ],
+      "correct": 2,
+      "inCorrect": 2,
+      "unAttempt": 1,
+      "score": 1.5,
+      "percentage": 30
     },
     {
-      "id": "3978",
+      "id": "d560",
+      "name": "MAnjeet",
+      "quizId": "1",
+      "response": []
+    },
+    {
+      "id": "b487",
       "name": "Manjeet",
-      "quizId": "1"
+      "quizId": "1",
+      "response": [
+        {
+          "questionId": "1",
+          "answerOptionId": "a"
+        },
+        {
+          "questionId": "2",
+          "answerOptionId": "a"
+        },
+        {
+          "questionId": "3",
+          "answerOptionId": "c"
+        },
+        {
+          "questionId": "4",
+          "answerOptionId": "d"
+        },
+        {
+          "questionId": "5",
+          "answerOptionId": ""
+        }
+      ],
+      "correct": 2,
+      "inCorrect": 2,
+      "unAttempt": 1,
+      "score": 1.5,
+      "percentage": 30
     }
   ]
 }
