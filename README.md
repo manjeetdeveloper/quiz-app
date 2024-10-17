@@ -1,5 +1,12 @@
 # [QuizApp](https://ngquizsapp.netlify.app/)
 
+
+![Screenshot 2024-10-17 224923](https://github.com/user-attachments/assets/61e59231-e9cf-4e80-91d2-02d57b4729f6)
+![Screenshot 2024-10-17 224938](https://github.com/user-attachments/assets/599828ce-3aab-4db6-817b-914c7a793dd5)
+![Screenshot 2024-10-17 224952](https://github.com/user-attachments/assets/939c05bf-c145-48dc-9b3e-2c154aa2f135)
+
+![Screenshot 2024-10-17 225218](https://github.com/user-attachments/assets/8ba84f6d-c615-426e-99f0-230916458427)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.6.
 
 ## Development server
